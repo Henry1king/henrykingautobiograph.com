@@ -1,0 +1,103 @@
+#background-img{
+    background-image: url(My\ logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#background-img h1{
+          text-align: center;
+          font-size: 100px;
+          color: white;
+          margin-bottom: 200px;
+          transition: 0.5s;
+}
+#my-testimony h1{
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+}
+.testimony{
+    justify-content: space-between;
+    display: flex;
+}
+.testimony p{
+    font-size: 10px;
+    color: orangered;
+}
+.testimony li{
+    font-size: 30px;
+    color: orangered;
+}
+.testimony img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    justify-content: flex-end;
+}
+#auto-biography h1{
+    text-align: center;
+    font-size: 70px;
+    color: orange;
+}
+.biography{
+    display: flex;
+}
+.biography p{
+    font-size: 50px;
+    color: orangered;
+}
+.biography img{
+    border-radius: 50px;
+    width: 350px;
+    height: 500px;
+}
+.biography li{
+    font-size: 35px;
+    color: orangered;
+}
+#about-us{
+    background-image: url(orange\ 4.jfif);
+    background-position: end;
+}
+#about-us{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+#about-us h1{
+    font-size:70px;
+    text-align: center;
+    color: white;
+}
+.about{
+    color: white;
+    font-size: 45px;
+    display:inline;
+    text-align: justify;
+}
+.about :hover{
+    color: black;
+    background-color: white;
+    background-size: contain;
+    position: sticky;
+}
+.phone{
+    color: white;
+    transition: 0.5;
+    font-size: 45px;
+    display:inline;
+    text-align: justify;
+}
+#background-img button{
+    size: 20px;
+}
+.about a{
+    color: white;
+}
+#background-img img{
+    border-radius: 500%;
+    width: 350px;
+    height: 500px;
+    justify-items: center;
+    margin-left: 570px;
+    margin-bottom: 700px;
+}
